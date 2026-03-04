@@ -14,7 +14,7 @@ I am primarily solving problems using **C#**.
 
 | Language | Problems Solved |
 | :--- | :--- |
-| **C#** | `[4]` |
+| **C#** | `[8]` |
 
 
 *(This status table will be updated as I solve more problems.)*
